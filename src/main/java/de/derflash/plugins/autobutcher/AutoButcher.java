@@ -1,4 +1,4 @@
-package me.derflash.plugins.autobutcher;
+package de.derflash.plugins.autobutcher;
 
 import java.util.ArrayList;
 import java.util.List;
