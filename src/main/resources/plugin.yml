@@ -1,0 +1,12 @@
+author: DerFlash
+database: false
+generator: http://dinnerbone.com/minecraft/tools/pluginator/
+main: me.derflash.plugins.autobutcher.AutoButcher
+name: AutoButcher
+startup: postworld
+url: http://www.cube-nation.de/
+version: '1.0'
+commands:
+    autobutcher:
+        aliases: [ab, abutcher]
+        
